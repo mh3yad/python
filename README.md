@@ -1,2 +1,2 @@
 # python
-## paython code that i wrote to de certain small tasks
+## paython code that i wrote to do certain small tasks
